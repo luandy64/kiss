@@ -202,4 +202,7 @@ The following resources are included in the theme:
 
 ## Author
 
-[Emir Ribic](https://github.com/ribice)
+The original author of Kiss is: [Emir Ribic](https://github.com/ribice)
+
+Modifications in this repository are done by me, [Andy Lu](https://github.com/luandy64)
+
